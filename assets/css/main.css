@@ -585,6 +585,7 @@
 		border-bottom: none;
 		position: relative;
 		font-size: 1.5em;
+		margin: 0 1rem 0 1rem;
 	}
 
 		.icon:before {
