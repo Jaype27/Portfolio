@@ -151,7 +151,7 @@
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		margin: 0 0 0 0;
 		
 	}
 
@@ -584,6 +584,7 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		font-size: 1.5em;
 	}
 
 		.icon:before {
@@ -1228,6 +1229,7 @@
 			#header > :first-child:before {
 				display: none;
 			}
+
 /*Circle Surrounding the Logo*/
 		#header .logo {
 			width: 7rem;
@@ -1538,6 +1540,8 @@
 					background-size: 20px 20px;
 					background-repeat: no-repeat;
 				}
+
+				/* X out the tab */
 
 				#main article .close:hover:before {
 					background-color: rgba(255, 255, 255, 0.075);
