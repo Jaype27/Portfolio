@@ -152,6 +152,7 @@
 
 	p {
 		margin: 0 0 0 0;
+		font-size: 1.2rem
 		
 	}
 
@@ -602,6 +603,10 @@
 		}
 
 /* Image */
+
+	#assets img {
+		border: solid 3px #000000
+	}
 
 	.image {
 		border-radius: 4px;
