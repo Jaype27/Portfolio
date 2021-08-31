@@ -135,6 +135,7 @@
 		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
 		text-decoration: none;
 		color: inherit;
+		
 	}
 
 		a:hover {
@@ -1510,6 +1511,14 @@
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
 			opacity: 0;
+		}
+
+		#main article h3 {
+			font-size: 2rem;
+		}
+
+		#main article a {
+			margin-right: 20px; 
 		}
 
 			#main article.active {
